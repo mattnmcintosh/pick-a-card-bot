@@ -1,0 +1,6 @@
+/documentation
+/SSGE
+node_modules
+auth.json
+mod.json
+*.pem

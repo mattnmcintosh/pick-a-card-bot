@@ -1,0 +1,23 @@
+{
+  "name": "pick-a-card-prompts",
+  "version": "1.0.0",
+  "description": "Draws prompts from a preloaded deck (deck loading can be done in the future) and puts them in chat.",
+  "main": "bot.js",
+  "author": "Matthew McIntosh (AzimoBLM#5728)",
+  
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "scripts": {
+    "lint": "eslint bot.js --fix",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no build specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

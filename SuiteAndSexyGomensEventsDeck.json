@@ -1,0 +1,312 @@
+{
+    "cards": 
+    [
+        {
+            "card-suit": "Spades",
+            "card-name": "Ace",
+            "card-number": "1",
+            "card-image": "./SSGE/Ace_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "King",
+            "card-number": "",
+            "card-image": "./SSGE/King_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Queen",
+            "card-number": "",
+            "card-image": "./SSGE/Queen_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Jack",
+            "card-number": "",
+            "card-image": "./SSGE/Jack_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Ten",
+            "card-number": "10",
+            "card-image": "./SSGE/10_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Nine",
+            "card-number": "9",
+            "card-image": "./SSGE/9_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Eight",
+            "card-number": "8",
+            "card-image": "./SSGE/8_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Seven",
+            "card-number": "7",
+            "card-image": "./SSGE/7_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Six",
+            "card-number": "6",
+            "card-image": "./SSGE/6_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Five",
+            "card-number": "5",
+            "card-image": "./SSGE/5_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Four",
+            "card-number": "4",
+            "card-image": "./SSGE/4_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Three",
+            "card-number": "3",
+            "card-image": "./SSGE/3_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Spades",
+            "card-name": "Two",
+            "card-number": "2",
+            "card-image": "./SSGE/2_of_Spades.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Ace",
+            "card-number": "1",
+            "card-image": "./SSGE/Ace_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Queen",
+            "card-number": "",
+            "card-image": "./SSGE/Queen_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Jack",
+            "card-number": "",
+            "card-image": "./SSGE/Jack_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Ten",
+            "card-number": "10",
+            "card-image": "./SSGE/10_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Nine",
+            "card-number": "9",
+            "card-image": "./SSGE/9_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Eight",
+            "card-number": "8",
+            "card-image": "./SSGE/8_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Seven",
+            "card-number": "7",
+            "card-image": "./SSGE/7_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Six",
+            "card-number": "6",
+            "card-image": "./SSGE/6_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Five",
+            "card-number": "5",
+            "card-image": "./SSGE/5_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Four",
+            "card-number": "4",
+            "card-image": "./SSGE/4_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Three",
+            "card-number": "3",
+            "card-image": "./SSGE/3_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Hearts",
+            "card-name": "Two",
+            "card-number": "2",
+            "card-image": "./SSGE/2_of_Hearts.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Ace",
+            "card-number": "1",
+            "card-image": "./SSGE/Ace_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "King",
+            "card-number": "",
+            "card-image": "./SSGE/King_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Queen",
+            "card-number": "",
+            "card-image": "./SSGE/Queen_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Jack",
+            "card-number": "",
+            "card-image": "./SSGE/Jack_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Ten",
+            "card-number": "10",
+            "card-image": "./SSGE/10_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Nine",
+            "card-number": "9",
+            "card-image": "./SSGE/9_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Eight",
+            "card-number": "8",
+            "card-image": "./SSGE/8_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Seven",
+            "card-number": "7",
+            "card-image": "./SSGE/7_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Six",
+            "card-number": "6",
+            "card-image": "./SSGE/6_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Five",
+            "card-number": "5",
+            "card-image": "./SSGE/5_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Four",
+            "card-number": "4",
+            "card-image": "./SSGE/4_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Three",
+            "card-number": "3",
+            "card-image": "./SSGE/3_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Clubs",
+            "card-name": "Two",
+            "card-number": "2",
+            "card-image": "./SSGE/2_of_Clubs.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Ace",
+            "card-number": "1",
+            "card-image": "./SSGE/Ace_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "King",
+            "card-number": "",
+            "card-image": "./SSGE/King_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Queen",
+            "card-number": "",
+            "card-image": "./SSGE/Queen_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Jack",
+            "card-number": "",
+            "card-image": "./SSGE/Jack_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Ten",
+            "card-number": "10",
+            "card-image": "./SSGE/10_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Nine",
+            "card-number": "9",
+            "card-image": "./SSGE/9_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Eight",
+            "card-number": "8",
+            "card-image": "./SSGE/8_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Seven",
+            "card-number": "7",
+            "card-image": "./SSGE/7_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Six",
+            "card-number": "6",
+            "card-image": "./SSGE/6_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Five",
+            "card-number": "5",
+            "card-image": "./SSGE/5_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Four",
+            "card-number": "4",
+            "card-image": "./SSGE/4_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Three",
+            "card-number": "3",
+            "card-image": "./SSGE/3_of_Diamonds.jpg"
+        },
+        {
+            "card-suit": "Diamonds",
+            "card-name": "Two",
+            "card-number": "2",
+            "card-image": "./SSGE/2_of_Diamonds.jpg"
+        }
+    ]
+}
+
